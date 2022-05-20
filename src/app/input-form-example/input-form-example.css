@@ -1,0 +1,12 @@
+.example-form {
+  width: 50%;
+  color: #f2f3f8 !important;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+td {
+  padding-right: 8px;
+}

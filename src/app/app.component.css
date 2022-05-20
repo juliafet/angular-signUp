@@ -1,6 +1,27 @@
+.container {
+  background: url(https://images.unsplash.com/photo-1544725121-be3bf52e2dc8?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fHBob25lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800) no-repeat center;
+  display: flex;
+  flex-direction: column;
+  color: #eeeeee;
+  border-radius: 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+	position: relative;
+	overflow: hidden;
+	width: 768px;
+	max-width: 100%;
+	min-height: 580px;
+}
 
+.input-box {
+  background: rgba(255, 255, 255, 0.603);
+}
 
-
+h1 {
+  font-size: xx-large;
+  text-align: center;
+  font-weight: 700;
+}
 /*
 Copyright Google LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
